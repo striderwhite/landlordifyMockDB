@@ -1,21 +1,21 @@
 {
   "Buildings": [
     {
-      "_id": "5c5cd4cbac8b74ad8844dd72",
+      "id": "5c5cd4cbac8b74ad8844dd72",
       "name": "Zilencio",
       "address": "Falkland Islands (Malvinas) Kings Hwy",
       "phone": "(818) 456-3647",
       "manager": "Aurora"
     },
     {
-      "_id": "5c5cd4cb08c3767e3fe58c47",
+      "id": "5c5cd4cb08c3767e3fe58c47",
       "name": "Bittor",
       "address": "Paraguay Ocean Avenue",
       "phone": "(844) 487-3721",
       "manager": "Sandy"
     },
     {
-      "_id": "5c5cd4cbdb31502d61d20de6",
+      "id": "5c5cd4cbdb31502d61d20de6",
       "name": "Tellifly",
       "address": "Mayotte Glenwood Road",
       "phone": "(871) 544-3368",
@@ -24,7 +24,7 @@
   ],
   "Tenants": [
     {
-      "_id": "5c5cd4cb491a9835deccdd77",
+      "id": "5c5cd4cb491a9835deccdd77",
       "buildingId": "5c5cd4cbac8b74ad8844dd72",
       "name": "Hinton",
       "email": "Brooks@Ware.com",
@@ -34,7 +34,7 @@
       "isSubscribed": false
     },
     {
-      "_id": "5c5cd4cbcfe215c7e65ecfd7",
+      "id": "5c5cd4cbcfe215c7e65ecfd7",
       "buildingId": "5c5cd4cbac8b74ad8844dd72",
       "name": "Angie",
       "email": "Esther@Mercado.com",
@@ -44,7 +44,7 @@
       "isSubscribed": false
     },
     {
-      "_id": "5c5cd4cb77f6c6f15a5470b3",
+      "id": "5c5cd4cb77f6c6f15a5470b3",
       "buildingId": "5c5cd4cbac8b74ad8844dd72",
       "name": "Joanne",
       "email": "Mia@Carpenter.com",
@@ -54,7 +54,7 @@
       "isSubscribed": true
     },
     {
-      "_id": "5c5cd4cb607ccd73d6314b66",
+      "id": "5c5cd4cb607ccd73d6314b66",
       "buildingId": "5c5cd4cb08c3767e3fe58c47",
       "name": "Freida",
       "email": "Sharron@Simpson.com",
@@ -64,7 +64,7 @@
       "isSubscribed": false
     },
     {
-      "_id": "5c5cd4cb9259f929d05b1fd3",
+      "id": "5c5cd4cb9259f929d05b1fd3",
       "buildingId": "5c5cd4cb08c3767e3fe58c47",
       "name": "Maryann",
       "email": "Dudley@Cooke.com",
@@ -74,7 +74,7 @@
       "isSubscribed": false
     },
     {
-      "_id": "5c5cd4cb7e0375d502edeba2",
+      "id": "5c5cd4cb7e0375d502edeba2",
       "buildingId": "5c5cd4cb08c3767e3fe58c47",
       "name": "Chandra",
       "email": "Salazar@Tyler.com",
@@ -84,7 +84,7 @@
       "isSubscribed": true
     },
     {
-      "_id": "5c5cd4cb3d0ffd2224e5306c",
+      "id": "5c5cd4cb3d0ffd2224e5306c",
       "buildingId": "5c5cd4cbdb31502d61d20de6",
       "name": "Charmaine",
       "email": "Martinez@Bush.com",
@@ -94,7 +94,7 @@
       "isSubscribed": false
     },
     {
-      "_id": "5c5cd4cbb6d0db919600164c",
+      "id": "5c5cd4cbb6d0db919600164c",
       "buildingId": "5c5cd4cbdb31502d61d20de6",
       "name": "Garza",
       "email": "Stafford@Macdonald.com",
@@ -104,7 +104,7 @@
       "isSubscribed": true
     },
     {
-      "_id": "5c5cd4cb3183f0e580efba85",
+      "id": "5c5cd4cb3183f0e580efba85",
       "buildingId": "5c5cd4cbdb31502d61d20de6",
       "name": "Michele",
       "email": "Dolores@Mercer.com",
@@ -114,7 +114,7 @@
       "isSubscribed": true
     },
     {
-      "_id": "5c5cd4cbdb07aaa1edaf8fda",
+      "id": "5c5cd4cbdb07aaa1edaf8fda",
       "buildingId": "5c5cd4cbdb31502d61d20de6",
       "name": "Rios",
       "email": "Cora@Tucker.com",
